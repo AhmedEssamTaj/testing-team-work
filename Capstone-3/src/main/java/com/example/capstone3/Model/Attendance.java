@@ -16,5 +16,6 @@ public class Attendance {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
+    // hello from rayan side :) 
 
 }
